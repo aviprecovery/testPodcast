@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Creative Engineering</title>
+    <title>Creative Engineering 2</title>
     <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>San Francisco, California</rawvoice:location>
@@ -33,7 +33,7 @@
       <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
       <title>Flutter Desktop/Web and VR</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <enclosure url="https://aviprecovery.github.io/testPodcast/testAudio.mp3" type="audio/mpeg" length="34216300" />
       <itunes:duration>54:08</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
